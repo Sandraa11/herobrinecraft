@@ -16,10 +16,10 @@
     "Facebook_Native"         : "",
     "Facebook_RewardAd"       : "",
     
-    "Applovin_Banner"         : "",
-    "Applovin_InterstitialAd" : "",
+    "Applovin_Banner"         : "7b762a3ef1b424f4",
+    "Applovin_InterstitialAd" : "6ead465fc191984c",
     "Applovin_Native"         : "",
-    "Applovin_RewardAd"       : "",
+    "Applovin_RewardAd"       : "cf6435adbe1be5ef",
 
     "Unity_GameID"            : "",
     "Unity_Banner"            : "",
