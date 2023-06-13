@@ -1,7 +1,7 @@
 {
   "AdsController": {
 
-    "AdNetwork": "admob",
+    "AdNetwork": "Applovin",
 
     "AdMob_ID": "",
     "AdMob_Banner": "",
